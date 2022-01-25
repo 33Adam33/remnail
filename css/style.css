@@ -87,10 +87,7 @@ nav ul li a:hover{
 	
 }
 
-.model111 img{
- width:30px;
- position: absolute;
-}
+
 
 .social-icons{
     /* list-style: none; */
@@ -166,6 +163,8 @@ content: '';
 
  .model111{
 position: relative;
+width: 20px;
+height: 20px;	 
 top: 0;
 left: 0; 
 z-index: 1.5;
