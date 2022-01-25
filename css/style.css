@@ -171,6 +171,7 @@ content: '';
 
  .model111{
 position: relative; 
+padding: 40;	 
 width: 200px;
 height: 200px;
 top: 600;
