@@ -87,8 +87,9 @@ nav ul li a:hover{
 	
 }
 
-.model111{
+.model111 img{
  width:30px;
+ position: absolute;
 }
 
 .social-icons{
