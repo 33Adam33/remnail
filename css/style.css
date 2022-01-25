@@ -171,8 +171,8 @@ content: '';
 
  .model111{
 position: absolute; 
-/* padding: 80px;	  */
-width: 200px;
+margin: 130px;	  
+margin-left: -70px;
 height: 200px;
 top: 600;
 left: 40; 
