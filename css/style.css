@@ -204,7 +204,7 @@ animation: hoho 2s ;
 	height: 350px;
 } 
 
-@keyframes rotate {
+@keyframes rotation {
  0% {
        transform: rotate(360deg);
 }
