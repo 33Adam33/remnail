@@ -162,8 +162,7 @@ content: '';
  .model111{
 position: relative;
 top: 0;
-left: 0;
-width:55%;	 
+left: 0; 
 z-index: 1.5;
 animation: hoho 2.5s , rotation 2s; 
 }
