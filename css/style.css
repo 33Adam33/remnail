@@ -177,7 +177,7 @@ height: 200px;
 top: 600;
 left: 40; 
 z-index: 1.5;
-animation: hoho 2.5s , rotation 2s; 
+animation:  rotation 2s; 
 }
 
  .model1{
