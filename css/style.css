@@ -43,7 +43,7 @@ nav{
 }
 .logo img{
 	height: 45px;
-	width: 45px;
+	width: 100%;
 }
 nav ul{
 	display: flex;
