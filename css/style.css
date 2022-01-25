@@ -171,10 +171,10 @@ content: '';
 
  .model111{
 /* position: relative; */
-width: 100px;
-height: 100px;
-top: 0;
-left: 0; 
+width: 200px;
+height: 200px;
+top: 100;
+left: 40; 
 z-index: 1.5;
 animation: hoho 2.5s , rotation 2s; 
 }
