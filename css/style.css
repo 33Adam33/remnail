@@ -173,7 +173,7 @@ content: '';
 position: relative; 
 width: 200px;
 height: 200px;
-top: 100;
+top: 600;
 left: 40; 
 z-index: 1.5;
 animation: hoho 2.5s , rotation 2s; 
