@@ -164,7 +164,7 @@ position: relative;
 top: 0;
 left: 0;
 z-index: 3;
-animation: hoho 2s ; 
+animation: hoho 2s , rotation 2s; 
 }
 
  .model1{
@@ -203,6 +203,11 @@ animation: hoho 2s ;
 	width:350px;
 	height: 350px;
 } 
+
+@keyframes rotate {
+ 0% {
+       transform: rotate(360deg);
+}
 
 @keyframes hoho {
     0%{
