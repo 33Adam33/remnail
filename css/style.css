@@ -1065,11 +1065,11 @@ table {
 
 /* Zebra striping */
 tr:nth-of-type(odd) { 
-	background: #f2f8ff; 
+	background: #f4f8ff; 
 	}
 
 th { 
-	background: #3498db; 
+	background: #588eeb; 
 	color: white; 
 	font-weight: bold; 
 	}
